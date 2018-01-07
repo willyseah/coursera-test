@@ -1,0 +1,45 @@
+/** HEADER **/
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  
+  color: #000;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+ 
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list li {
+
+  border: 1px solid #000;
+}
+#nav-list span {
+  font-size: 36px;
+  
+
+}
+
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -50px;
+}
+
+/** MAIN CONTENT **/
+.container section {
+
+  background-color: grey;
+}
